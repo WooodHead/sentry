@@ -318,13 +318,13 @@ exports[`projectAlertRules renders 1`] = `
                           to="1/"
                         >
                           <Link
-                            className="css-1763h46-TextColorLink css-pgfagv0"
+                            className="css-1763h46-TextColorLink css-c0divu0"
                             onlyActiveOnIndex={false}
                             style={Object {}}
                             to="1/"
                           >
                             <a
-                              className="css-1763h46-TextColorLink css-pgfagv0"
+                              className="css-1763h46-TextColorLink css-c0divu0"
                               onClick={[Function]}
                               style={Object {}}
                             >
@@ -496,15 +496,15 @@ exports[`projectAlertRules renders 1`] = `
               >
                 <RuleDescriptionRow>
                   <div
-                    className="css-16pvk6d-RuleDescriptionRow css-pgfagv1"
+                    className="css-16pvk6d-RuleDescriptionRow css-c0divu1"
                   >
                     <RuleDescriptionColumn>
                       <div
-                        className="css-ta36pl-RuleDescriptionColumn css-pgfagv2"
+                        className="css-ta36pl-RuleDescriptionColumn css-c0divu2"
                       >
                         <Condition>
                           <div
-                            className="css-1d9hhun-Condition css-pgfagv3"
+                            className="css-1d9hhun-Condition css-c0divu3"
                           >
                             <h6>
                               When 
@@ -530,11 +530,11 @@ exports[`projectAlertRules renders 1`] = `
                     </RuleDescriptionColumn>
                     <RuleDescriptionColumn>
                       <div
-                        className="css-ta36pl-RuleDescriptionColumn css-pgfagv2"
+                        className="css-ta36pl-RuleDescriptionColumn css-c0divu2"
                       >
                         <Condition>
                           <div
-                            className="css-1d9hhun-Condition css-pgfagv3"
+                            className="css-1d9hhun-Condition css-c0divu3"
                           >
                             <h6>
                               Take these actions at most
